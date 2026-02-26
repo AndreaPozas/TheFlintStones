@@ -22,6 +22,22 @@
 		{
 			"Name": "ChaosMover",
 			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraMRQ",
+			"Enabled": true
 		}
 	]
 }
